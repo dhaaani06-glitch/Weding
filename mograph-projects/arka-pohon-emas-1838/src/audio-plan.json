@@ -1,0 +1,332 @@
+{
+ "durationSeconds": 137.4,
+ "seed": 7,
+ "sections": [
+  {
+   "start": 0,
+   "end": 16.6,
+   "mood": "reflective",
+   "energy": 0.35
+  },
+  {
+   "start": 16.6,
+   "end": 29.98,
+   "mood": "curious",
+   "energy": 0.4
+  },
+  {
+   "start": 29.98,
+   "end": 45.44,
+   "mood": "curious",
+   "energy": 0.45
+  },
+  {
+   "start": 45.44,
+   "end": 64.36,
+   "mood": "playful",
+   "energy": 0.55
+  },
+  {
+   "start": 64.36,
+   "end": 80.48,
+   "mood": "tense",
+   "energy": 0.45
+  },
+  {
+   "start": 80.48,
+   "end": 99.44,
+   "mood": "dramatic",
+   "energy": 0.65
+  },
+  {
+   "start": 99.44,
+   "end": 115.58,
+   "mood": "reflective",
+   "energy": 0.3
+  },
+  {
+   "start": 115.58,
+   "end": 137.4,
+   "mood": "hopeful",
+   "energy": 0.42
+  }
+ ],
+ "styleHits": [
+  {
+   "time": 45.44,
+   "type": "hit"
+  },
+  {
+   "time": 93.95,
+   "type": "hit"
+  },
+  {
+   "time": 79.08,
+   "type": "riser",
+   "duration": 1.4
+  }
+ ],
+ "intentionalSilences": [],
+ "sfxCues": [
+  {
+   "time": 0,
+   "asset": "audio/sfx/hikayat/gong.wav",
+   "gain": 0.5,
+   "purpose": "opening gong"
+  },
+  {
+   "time": 1,
+   "asset": "audio/sfx/hikayat/swoosh.wav",
+   "gain": 0.35,
+   "purpose": "gunungan opens"
+  },
+  {
+   "time": 5.6,
+   "asset": "audio/sfx/hikayat/kecrek.wav",
+   "gain": 0.3,
+   "purpose": "Arka enters"
+  },
+  {
+   "time": 10.88,
+   "asset": "audio/sfx/hikayat/kendang.wav",
+   "gain": 0.25,
+   "purpose": "complaint"
+  },
+  {
+   "time": 13.92,
+   "asset": "audio/sfx/hikayat/chime.wav",
+   "gain": 0.3,
+   "purpose": "dream of gold"
+  },
+  {
+   "time": 16,
+   "asset": "audio/sfx/hikayat/swoosh.wav",
+   "gain": 0.4,
+   "purpose": "gunungan wipe to forest"
+  },
+  {
+   "time": 16.7,
+   "asset": "audio/sfx/hikayat/gong.wav",
+   "gain": 0.3,
+   "purpose": "act gong"
+  },
+  {
+   "time": 20.42,
+   "asset": "audio/sfx/hikayat/rumble.wav",
+   "gain": 0.3,
+   "purpose": "old tree rises"
+  },
+  {
+   "time": 26.68,
+   "asset": "audio/sfx/hikayat/magic.wav",
+   "gain": 0.35,
+   "purpose": "fruits light"
+  },
+  {
+   "time": 29.98,
+   "asset": "audio/sfx/hikayat/chime.wav",
+   "gain": 0.4,
+   "purpose": "voice from the tree"
+  },
+  {
+   "time": 37.26,
+   "asset": "audio/sfx/hikayat/magic.wav",
+   "gain": 0.3,
+   "purpose": "wish promise"
+  },
+  {
+   "time": 41.72,
+   "asset": "audio/sfx/hikayat/kecrek.wav",
+   "gain": 0.35,
+   "purpose": "startled"
+  },
+  {
+   "time": 44,
+   "asset": "audio/sfx/hikayat/chime.wav",
+   "gain": 0.35,
+   "purpose": "eyes sparkle"
+  },
+  {
+   "time": 45.44,
+   "asset": "audio/sfx/hikayat/kendang.wav",
+   "gain": 0.4,
+   "purpose": "greedy wish"
+  },
+  {
+   "time": 48.82,
+   "asset": "audio/sfx/hikayat/swoosh.wav",
+   "gain": 0.25,
+   "purpose": "fruit falls"
+  },
+  {
+   "time": 50.09,
+   "asset": "audio/sfx/hikayat/magic.wav",
+   "gain": 0.5,
+   "purpose": "fruit becomes gold"
+  },
+  {
+   "time": 53.68,
+   "asset": "audio/sfx/hikayat/kecrek.wav",
+   "gain": 0.3,
+   "purpose": "laugh"
+  },
+  {
+   "time": 55.38,
+   "asset": "audio/sfx/hikayat/swoosh.wav",
+   "gain": 0.35,
+   "purpose": "scene to home"
+  },
+  {
+   "time": 57.6,
+   "asset": "audio/sfx/hikayat/rumble.wav",
+   "gain": 0.25,
+   "purpose": "house rises"
+  },
+  {
+   "time": 59.1,
+   "asset": "audio/sfx/hikayat/chime.wav",
+   "gain": 0.4,
+   "purpose": "rich clothes"
+  },
+  {
+   "time": 60.7,
+   "asset": "audio/sfx/hikayat/kecrek.wav",
+   "gain": 0.3,
+   "purpose": "chests"
+  },
+  {
+   "time": 61.05,
+   "asset": "audio/sfx/hikayat/kecrek.wav",
+   "gain": 0.25,
+   "purpose": "chests"
+  },
+  {
+   "time": 64.76,
+   "asset": "audio/sfx/hikayat/gong.wav",
+   "gain": 0.4,
+   "purpose": "greed"
+  },
+  {
+   "time": 66.3,
+   "asset": "audio/sfx/hikayat/swoosh.wav",
+   "gain": 0.4,
+   "purpose": "gunungan wipe"
+  },
+  {
+   "time": 71.54,
+   "asset": "audio/sfx/hikayat/kendang.wav",
+   "gain": 0.45,
+   "purpose": "ten times"
+  },
+  {
+   "time": 75.28,
+   "asset": "audio/sfx/hikayat/chime.wav",
+   "gain": 0.3,
+   "purpose": "tree answers"
+  },
+  {
+   "time": 80.48,
+   "asset": "audio/sfx/hikayat/thunder.wav",
+   "gain": 0.4,
+   "purpose": "anger"
+  },
+  {
+   "time": 81.96,
+   "asset": "audio/sfx/hikayat/kendang.wav",
+   "gain": 0.5,
+   "purpose": "axe raised"
+  },
+  {
+   "time": 86.32,
+   "asset": "audio/sfx/hikayat/magic.wav",
+   "gain": 0.35,
+   "purpose": "last fruit"
+  },
+  {
+   "time": 90.74,
+   "asset": "audio/sfx/hikayat/chime.wav",
+   "gain": 0.45,
+   "purpose": "fruit opens"
+  },
+  {
+   "time": 93.95,
+   "asset": "audio/sfx/hikayat/boom.wav",
+   "gain": 0.45,
+   "purpose": "gold turns to leaves"
+  },
+  {
+   "time": 94.82,
+   "asset": "audio/sfx/hikayat/rumble.wav",
+   "gain": 0.35,
+   "purpose": "leaves scatter"
+  },
+  {
+   "time": 96.48,
+   "asset": "audio/sfx/hikayat/gong.wav",
+   "gain": 0.45,
+   "purpose": "scream"
+  },
+  {
+   "time": 99.44,
+   "asset": "audio/sfx/hikayat/chime.wav",
+   "gain": 0.25,
+   "purpose": "soft voice"
+  },
+  {
+   "time": 112.74,
+   "asset": "audio/sfx/hikayat/magic.wav",
+   "gain": 0.4,
+   "purpose": "tree vanishes"
+  },
+  {
+   "time": 114.98,
+   "asset": "audio/sfx/hikayat/swoosh.wav",
+   "gain": 0.4,
+   "purpose": "gunungan wipe"
+  },
+  {
+   "time": 115.73,
+   "asset": "audio/sfx/hikayat/gong.wav",
+   "gain": 0.35,
+   "purpose": "new life"
+  },
+  {
+   "time": 120.68,
+   "asset": "audio/sfx/hikayat/kecrek.wav",
+   "gain": 0.25,
+   "purpose": "work"
+  },
+  {
+   "time": 121.06,
+   "asset": "audio/sfx/hikayat/kecrek.wav",
+   "gain": 0.25,
+   "purpose": "villager arrives"
+  },
+  {
+   "time": 127.44,
+   "asset": "audio/sfx/hikayat/chime.wav",
+   "gain": 0.35,
+   "purpose": "sapling"
+  },
+  {
+   "time": 132.56,
+   "asset": "audio/sfx/hikayat/magic.wav",
+   "gain": 0.4,
+   "purpose": "gratitude glow"
+  },
+  {
+   "time": 135.16,
+   "asset": "audio/sfx/hikayat/swoosh.wav",
+   "gain": 0.4,
+   "purpose": "gunungan closes"
+  },
+  {
+   "time": 135.96,
+   "asset": "audio/sfx/hikayat/gong.wav",
+   "gain": 0.55,
+   "purpose": "closing gong"
+  }
+ ],
+ "musicSource": "Original procedural gamelan bed (slendro) generated offline by the starter style-score script; no third-party audio.",
+ "rightsNotes": "All music and SFX are original, synthesized in-project. Voice-over supplied by the buyer."
+}

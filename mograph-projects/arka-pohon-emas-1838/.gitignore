@@ -1,0 +1,6 @@
+node_modules/
+out/working/
+out/qc*/
+out/render-log.txt
+out/.cache/
+*.bak

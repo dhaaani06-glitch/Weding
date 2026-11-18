@@ -1,0 +1,2025 @@
+{
+ "method": "ctc-forced-alignment",
+ "duration": 135.24,
+ "words": [
+  {
+   "word": "Pada",
+   "start": 0.2,
+   "end": 0.36,
+   "conf": 0.997,
+   "i": 0
+  },
+  {
+   "word": "zaman",
+   "start": 0.42,
+   "end": 0.64,
+   "conf": 0.808,
+   "i": 1
+  },
+  {
+   "word": "dahulu,",
+   "start": 0.68,
+   "end": 1.06,
+   "conf": 0.972,
+   "i": 2
+  },
+  {
+   "word": "di",
+   "start": 1.64,
+   "end": 1.7,
+   "conf": 0.997,
+   "i": 3
+  },
+  {
+   "word": "sebuah",
+   "start": 1.86,
+   "end": 2.2,
+   "conf": 0.997,
+   "i": 4
+  },
+  {
+   "word": "desa",
+   "start": 2.28,
+   "end": 2.5,
+   "conf": 0.998,
+   "i": 5
+  },
+  {
+   "word": "kecil",
+   "start": 2.6,
+   "end": 2.9,
+   "conf": 0.998,
+   "i": 6
+  },
+  {
+   "word": "yang",
+   "start": 3.04,
+   "end": 3.18,
+   "conf": 0.957,
+   "i": 7
+  },
+  {
+   "word": "dikelilingi",
+   "start": 3.26,
+   "end": 3.84,
+   "conf": 0.991,
+   "i": 8
+  },
+  {
+   "word": "hutan",
+   "start": 3.94,
+   "end": 4.18,
+   "conf": 0.996,
+   "i": 9
+  },
+  {
+   "word": "lebat,",
+   "start": 4.26,
+   "end": 4.58,
+   "conf": 0.992,
+   "i": 10
+  },
+  {
+   "word": "hiduplah",
+   "start": 5.16,
+   "end": 5.54,
+   "conf": 0.996,
+   "i": 11
+  },
+  {
+   "word": "seorang",
+   "start": 5.6,
+   "end": 5.9,
+   "conf": 0.984,
+   "i": 12
+  },
+  {
+   "word": "pemuda",
+   "start": 5.96,
+   "end": 6.32,
+   "conf": 0.996,
+   "i": 13
+  },
+  {
+   "word": "bernama",
+   "start": 6.42,
+   "end": 6.76,
+   "conf": 0.994,
+   "i": 14
+  },
+  {
+   "word": "Arka.",
+   "start": 6.9,
+   "end": 7.16,
+   "conf": 0.991,
+   "i": 15
+  },
+  {
+   "word": "Arka",
+   "start": 8.16,
+   "end": 8.34,
+   "conf": 0.994,
+   "i": 16
+  },
+  {
+   "word": "dikenal",
+   "start": 8.44,
+   "end": 8.76,
+   "conf": 0.997,
+   "i": 17
+  },
+  {
+   "word": "sebagai",
+   "start": 8.84,
+   "end": 9.14,
+   "conf": 0.997,
+   "i": 18
+  },
+  {
+   "word": "pemuda",
+   "start": 9.2,
+   "end": 9.46,
+   "conf": 0.998,
+   "i": 19
+  },
+  {
+   "word": "miskin",
+   "start": 9.54,
+   "end": 9.92,
+   "conf": 0.998,
+   "i": 20
+  },
+  {
+   "word": "yang",
+   "start": 10.1,
+   "end": 10.24,
+   "conf": 0.998,
+   "i": 21
+  },
+  {
+   "word": "selalu",
+   "start": 10.4,
+   "end": 10.76,
+   "conf": 0.996,
+   "i": 22
+  },
+  {
+   "word": "mengeluh",
+   "start": 10.88,
+   "end": 11.26,
+   "conf": 0.974,
+   "i": 23
+  },
+  {
+   "word": "tentang",
+   "start": 11.36,
+   "end": 11.62,
+   "conf": 0.994,
+   "i": 24
+  },
+  {
+   "word": "kehidupannya.",
+   "start": 11.7,
+   "end": 12.28,
+   "conf": 0.977,
+   "i": 25
+  },
+  {
+   "word": "Ia",
+   "start": 13.16,
+   "end": 13.26,
+   "conf": 0.997,
+   "i": 26
+  },
+  {
+   "word": "ingin",
+   "start": 13.38,
+   "end": 13.58,
+   "conf": 0.976,
+   "i": 27
+  },
+  {
+   "word": "menjadi",
+   "start": 13.64,
+   "end": 13.92,
+   "conf": 0.997,
+   "i": 28
+  },
+  {
+   "word": "kaya",
+   "start": 14.02,
+   "end": 14.36,
+   "conf": 0.996,
+   "i": 29
+  },
+  {
+   "word": "tanpa",
+   "start": 14.54,
+   "end": 14.78,
+   "conf": 0.996,
+   "i": 30
+  },
+  {
+   "word": "harus",
+   "start": 14.88,
+   "end": 15.08,
+   "conf": 0.995,
+   "i": 31
+  },
+  {
+   "word": "bekerja",
+   "start": 15.16,
+   "end": 15.44,
+   "conf": 0.992,
+   "i": 32
+  },
+  {
+   "word": "keras.",
+   "start": 15.5,
+   "end": 15.82,
+   "conf": 0.994,
+   "i": 33
+  },
+  {
+   "word": "Suatu",
+   "start": 16.94,
+   "end": 17.16,
+   "conf": 0.985,
+   "i": 34
+  },
+  {
+   "word": "hari,",
+   "start": 17.24,
+   "end": 17.46,
+   "conf": 0.993,
+   "i": 35
+  },
+  {
+   "word": "ketika",
+   "start": 17.88,
+   "end": 18.16,
+   "conf": 0.988,
+   "i": 36
+  },
+  {
+   "word": "mencari",
+   "start": 18.28,
+   "end": 18.58,
+   "conf": 0.989,
+   "i": 37
+  },
+  {
+   "word": "kayu",
+   "start": 18.64,
+   "end": 18.84,
+   "conf": 0.99,
+   "i": 38
+  },
+  {
+   "word": "bakar",
+   "start": 18.92,
+   "end": 19.18,
+   "conf": 0.993,
+   "i": 39
+  },
+  {
+   "word": "di",
+   "start": 19.28,
+   "end": 19.34,
+   "conf": 0.993,
+   "i": 40
+  },
+  {
+   "word": "hutan,",
+   "start": 19.4,
+   "end": 19.72,
+   "conf": 0.992,
+   "i": 41
+  },
+  {
+   "word": "Arka",
+   "start": 20.44,
+   "end": 20.64,
+   "conf": 0.984,
+   "i": 42
+  },
+  {
+   "word": "menemukan",
+   "start": 20.72,
+   "end": 21.16,
+   "conf": 0.952,
+   "i": 43
+  },
+  {
+   "word": "sebuah",
+   "start": 21.26,
+   "end": 21.52,
+   "conf": 0.991,
+   "i": 44
+  },
+  {
+   "word": "pohon",
+   "start": 21.6,
+   "end": 21.84,
+   "conf": 0.991,
+   "i": 45
+  },
+  {
+   "word": "tua",
+   "start": 21.92,
+   "end": 22.12,
+   "conf": 0.989,
+   "i": 46
+  },
+  {
+   "word": "yang",
+   "start": 22.26,
+   "end": 22.38,
+   "conf": 0.991,
+   "i": 47
+  },
+  {
+   "word": "sangat",
+   "start": 22.54,
+   "end": 22.84,
+   "conf": 0.966,
+   "i": 48
+  },
+  {
+   "word": "besar.",
+   "start": 22.92,
+   "end": 23.22,
+   "conf": 0.987,
+   "i": 49
+  },
+  {
+   "word": "Anehnya,",
+   "start": 24.3,
+   "end": 24.74,
+   "conf": 0.985,
+   "i": 50
+  },
+  {
+   "word": "pohon",
+   "start": 25.18,
+   "end": 25.4,
+   "conf": 0.988,
+   "i": 51
+  },
+  {
+   "word": "itu",
+   "start": 25.5,
+   "end": 25.62,
+   "conf": 0.994,
+   "i": 52
+  },
+  {
+   "word": "memiliki",
+   "start": 25.72,
+   "end": 26.14,
+   "conf": 0.992,
+   "i": 53
+  },
+  {
+   "word": "buah",
+   "start": 26.24,
+   "end": 26.46,
+   "conf": 0.995,
+   "i": 54
+  },
+  {
+   "word": "berwarna",
+   "start": 26.52,
+   "end": 26.9,
+   "conf": 0.936,
+   "i": 55
+  },
+  {
+   "word": "keemasan",
+   "start": 26.98,
+   "end": 27.46,
+   "conf": 0.982,
+   "i": 56
+  },
+  {
+   "word": "yang",
+   "start": 27.56,
+   "end": 27.66,
+   "conf": 0.964,
+   "i": 57
+  },
+  {
+   "word": "memancarkan",
+   "start": 27.72,
+   "end": 28.3,
+   "conf": 0.963,
+   "i": 58
+  },
+  {
+   "word": "cahaya.",
+   "start": 28.38,
+   "end": 28.78,
+   "conf": 0.953,
+   "i": 59
+  },
+  {
+   "word": "Tiba-tiba,",
+   "start": 29.98,
+   "end": 30.46,
+   "conf": 0.964,
+   "i": 60
+  },
+  {
+   "word": "terdengar",
+   "start": 30.88,
+   "end": 31.28,
+   "conf": 0.978,
+   "i": 61
+  },
+  {
+   "word": "suara",
+   "start": 31.38,
+   "end": 31.7,
+   "conf": 0.985,
+   "i": 62
+  },
+  {
+   "word": "dari",
+   "start": 31.78,
+   "end": 31.92,
+   "conf": 0.981,
+   "i": 63
+  },
+  {
+   "word": "dalam",
+   "start": 32.0,
+   "end": 32.2,
+   "conf": 0.982,
+   "i": 64
+  },
+  {
+   "word": "pohon.",
+   "start": 32.26,
+   "end": 32.56,
+   "conf": 0.996,
+   "i": 65
+  },
+  {
+   "word": "“Wahai",
+   "start": 33.74,
+   "end": 34.02,
+   "conf": 0.993,
+   "i": 66
+  },
+  {
+   "word": "pemuda,",
+   "start": 34.08,
+   "end": 34.44,
+   "conf": 0.99,
+   "i": 67
+  },
+  {
+   "word": "ambillah",
+   "start": 35.1,
+   "end": 35.5,
+   "conf": 0.977,
+   "i": 68
+  },
+  {
+   "word": "satu",
+   "start": 35.58,
+   "end": 35.76,
+   "conf": 0.987,
+   "i": 69
+  },
+  {
+   "word": "buah",
+   "start": 35.84,
+   "end": 36.06,
+   "conf": 0.945,
+   "i": 70
+  },
+  {
+   "word": "dariku.",
+   "start": 36.14,
+   "end": 36.46,
+   "conf": 0.99,
+   "i": 71
+  },
+  {
+   "word": "Apa",
+   "start": 37.26,
+   "end": 37.44,
+   "conf": 0.994,
+   "i": 72
+  },
+  {
+   "word": "pun",
+   "start": 37.56,
+   "end": 37.72,
+   "conf": 0.997,
+   "i": 73
+  },
+  {
+   "word": "yang",
+   "start": 37.8,
+   "end": 37.92,
+   "conf": 0.995,
+   "i": 74
+  },
+  {
+   "word": "kau",
+   "start": 38.0,
+   "end": 38.12,
+   "conf": 0.99,
+   "i": 75
+  },
+  {
+   "word": "inginkan",
+   "start": 38.2,
+   "end": 38.64,
+   "conf": 0.993,
+   "i": 76
+  },
+  {
+   "word": "akan",
+   "start": 38.88,
+   "end": 39.08,
+   "conf": 0.99,
+   "i": 77
+  },
+  {
+   "word": "menjadi",
+   "start": 39.16,
+   "end": 39.46,
+   "conf": 0.982,
+   "i": 78
+  },
+  {
+   "word": "kenyataan.”",
+   "start": 39.52,
+   "end": 40.08,
+   "conf": 0.958,
+   "i": 79
+  },
+  {
+   "word": "Arka",
+   "start": 41.44,
+   "end": 41.64,
+   "conf": 0.974,
+   "i": 80
+  },
+  {
+   "word": "terkejut,",
+   "start": 41.72,
+   "end": 42.12,
+   "conf": 0.979,
+   "i": 81
+  },
+  {
+   "word": "tetapi",
+   "start": 42.64,
+   "end": 42.94,
+   "conf": 0.983,
+   "i": 82
+  },
+  {
+   "word": "matanya",
+   "start": 43.12,
+   "end": 43.46,
+   "conf": 0.959,
+   "i": 83
+  },
+  {
+   "word": "langsung",
+   "start": 43.6,
+   "end": 43.94,
+   "conf": 0.989,
+   "i": 84
+  },
+  {
+   "word": "berbinar.",
+   "start": 44.0,
+   "end": 44.42,
+   "conf": 0.993,
+   "i": 85
+  },
+  {
+   "word": "“Aku",
+   "start": 45.44,
+   "end": 45.6,
+   "conf": 0.995,
+   "i": 86
+  },
+  {
+   "word": "ingin",
+   "start": 45.7,
+   "end": 45.88,
+   "conf": 0.993,
+   "i": 87
+  },
+  {
+   "word": "emas",
+   "start": 45.98,
+   "end": 46.24,
+   "conf": 0.992,
+   "i": 88
+  },
+  {
+   "word": "sebanyak-banyaknya!”",
+   "start": 46.32,
+   "end": 47.1,
+   "conf": 0.956,
+   "i": 89
+  },
+  {
+   "word": "Seketika,",
+   "start": 48.22,
+   "end": 48.64,
+   "conf": 0.933,
+   "i": 90
+  },
+  {
+   "word": "buah",
+   "start": 49.0,
+   "end": 49.2,
+   "conf": 0.991,
+   "i": 91
+  },
+  {
+   "word": "itu",
+   "start": 49.26,
+   "end": 49.36,
+   "conf": 0.987,
+   "i": 92
+  },
+  {
+   "word": "jatuh",
+   "start": 49.46,
+   "end": 49.84,
+   "conf": 0.991,
+   "i": 93
+  },
+  {
+   "word": "dan",
+   "start": 49.98,
+   "end": 50.08,
+   "conf": 0.988,
+   "i": 94
+  },
+  {
+   "word": "berubah",
+   "start": 50.14,
+   "end": 50.44,
+   "conf": 0.985,
+   "i": 95
+  },
+  {
+   "word": "menjadi",
+   "start": 50.52,
+   "end": 50.8,
+   "conf": 0.989,
+   "i": 96
+  },
+  {
+   "word": "tumpukan",
+   "start": 50.88,
+   "end": 51.34,
+   "conf": 0.994,
+   "i": 97
+  },
+  {
+   "word": "emas",
+   "start": 51.44,
+   "end": 51.68,
+   "conf": 0.992,
+   "i": 98
+  },
+  {
+   "word": "di",
+   "start": 51.78,
+   "end": 51.84,
+   "conf": 0.993,
+   "i": 99
+  },
+  {
+   "word": "hadapannya.",
+   "start": 51.9,
+   "end": 52.4,
+   "conf": 0.988,
+   "i": 100
+  },
+  {
+   "word": "Arka",
+   "start": 53.38,
+   "end": 53.6,
+   "conf": 0.977,
+   "i": 101
+  },
+  {
+   "word": "tertawa",
+   "start": 53.68,
+   "end": 54.14,
+   "conf": 0.992,
+   "i": 102
+  },
+  {
+   "word": "kegirangan.",
+   "start": 54.24,
+   "end": 54.8,
+   "conf": 0.992,
+   "i": 103
+  },
+  {
+   "word": "Ia",
+   "start": 55.48,
+   "end": 55.58,
+   "conf": 0.985,
+   "i": 104
+  },
+  {
+   "word": "membawa",
+   "start": 55.66,
+   "end": 55.96,
+   "conf": 0.992,
+   "i": 105
+  },
+  {
+   "word": "emas",
+   "start": 56.06,
+   "end": 56.24,
+   "conf": 0.988,
+   "i": 106
+  },
+  {
+   "word": "tersebut",
+   "start": 56.3,
+   "end": 56.68,
+   "conf": 0.994,
+   "i": 107
+  },
+  {
+   "word": "pulang",
+   "start": 56.82,
+   "end": 57.22,
+   "conf": 0.992,
+   "i": 108
+  },
+  {
+   "word": "dan",
+   "start": 57.44,
+   "end": 57.54,
+   "conf": 0.984,
+   "i": 109
+  },
+  {
+   "word": "membeli",
+   "start": 57.62,
+   "end": 57.88,
+   "conf": 0.987,
+   "i": 110
+  },
+  {
+   "word": "rumah",
+   "start": 58.0,
+   "end": 58.22,
+   "conf": 0.957,
+   "i": 111
+  },
+  {
+   "word": "besar,",
+   "start": 58.28,
+   "end": 58.64,
+   "conf": 0.994,
+   "i": 112
+  },
+  {
+   "word": "pakaian",
+   "start": 59.1,
+   "end": 59.46,
+   "conf": 0.961,
+   "i": 113
+  },
+  {
+   "word": "mewah,",
+   "start": 59.52,
+   "end": 59.9,
+   "conf": 0.993,
+   "i": 114
+  },
+  {
+   "word": "serta",
+   "start": 60.36,
+   "end": 60.58,
+   "conf": 0.999,
+   "i": 115
+  },
+  {
+   "word": "segala",
+   "start": 60.7,
+   "end": 61.04,
+   "conf": 0.999,
+   "i": 116
+  },
+  {
+   "word": "sesuatu",
+   "start": 61.12,
+   "end": 61.52,
+   "conf": 0.999,
+   "i": 117
+  },
+  {
+   "word": "yang",
+   "start": 61.62,
+   "end": 61.74,
+   "conf": 0.998,
+   "i": 118
+  },
+  {
+   "word": "selama",
+   "start": 61.84,
+   "end": 62.14,
+   "conf": 0.998,
+   "i": 119
+  },
+  {
+   "word": "ini",
+   "start": 62.26,
+   "end": 62.38,
+   "conf": 0.997,
+   "i": 120
+  },
+  {
+   "word": "diimpikannya.",
+   "start": 62.48,
+   "end": 63.16,
+   "conf": 0.997,
+   "i": 121
+  },
+  {
+   "word": "Namun,",
+   "start": 64.36,
+   "end": 64.62,
+   "conf": 0.999,
+   "i": 122
+  },
+  {
+   "word": "keserakahannya",
+   "start": 64.76,
+   "end": 65.44,
+   "conf": 0.986,
+   "i": 123
+  },
+  {
+   "word": "tidak",
+   "start": 65.56,
+   "end": 65.78,
+   "conf": 0.999,
+   "i": 124
+  },
+  {
+   "word": "berhenti",
+   "start": 65.84,
+   "end": 66.16,
+   "conf": 0.999,
+   "i": 125
+  },
+  {
+   "word": "di",
+   "start": 66.22,
+   "end": 66.28,
+   "conf": 0.996,
+   "i": 126
+  },
+  {
+   "word": "situ.",
+   "start": 66.34,
+   "end": 66.54,
+   "conf": 0.997,
+   "i": 127
+  },
+  {
+   "word": "Keesokan",
+   "start": 67.34,
+   "end": 67.74,
+   "conf": 0.996,
+   "i": 128
+  },
+  {
+   "word": "harinya,",
+   "start": 67.8,
+   "end": 68.16,
+   "conf": 0.998,
+   "i": 129
+  },
+  {
+   "word": "ia",
+   "start": 68.5,
+   "end": 68.56,
+   "conf": 0.915,
+   "i": 130
+  },
+  {
+   "word": "kembali",
+   "start": 68.66,
+   "end": 69.02,
+   "conf": 0.999,
+   "i": 131
+  },
+  {
+   "word": "ke",
+   "start": 69.1,
+   "end": 69.16,
+   "conf": 0.998,
+   "i": 132
+  },
+  {
+   "word": "pohon",
+   "start": 69.22,
+   "end": 69.4,
+   "conf": 0.997,
+   "i": 133
+  },
+  {
+   "word": "ajaib.",
+   "start": 69.48,
+   "end": 69.84,
+   "conf": 0.947,
+   "i": 134
+  },
+  {
+   "word": "“Aku",
+   "start": 70.72,
+   "end": 70.88,
+   "conf": 0.999,
+   "i": 135
+  },
+  {
+   "word": "ingin",
+   "start": 70.98,
+   "end": 71.16,
+   "conf": 0.987,
+   "i": 136
+  },
+  {
+   "word": "emas",
+   "start": 71.24,
+   "end": 71.48,
+   "conf": 0.995,
+   "i": 137
+  },
+  {
+   "word": "sepuluh",
+   "start": 71.54,
+   "end": 71.94,
+   "conf": 0.854,
+   "i": 138
+  },
+  {
+   "word": "kali",
+   "start": 72.06,
+   "end": 72.24,
+   "conf": 0.998,
+   "i": 139
+  },
+  {
+   "word": "lebih",
+   "start": 72.32,
+   "end": 72.48,
+   "conf": 0.997,
+   "i": 140
+  },
+  {
+   "word": "banyak!”",
+   "start": 72.54,
+   "end": 72.86,
+   "conf": 0.991,
+   "i": 141
+  },
+  {
+   "word": "Pohon",
+   "start": 73.64,
+   "end": 73.84,
+   "conf": 0.998,
+   "i": 142
+  },
+  {
+   "word": "itu",
+   "start": 73.92,
+   "end": 74.0,
+   "conf": 0.993,
+   "i": 143
+  },
+  {
+   "word": "menjawab,",
+   "start": 74.06,
+   "end": 74.46,
+   "conf": 0.993,
+   "i": 144
+  },
+  {
+   "word": "“Kekayaanmu",
+   "start": 75.28,
+   "end": 75.84,
+   "conf": 0.998,
+   "i": 145
+  },
+  {
+   "word": "sudah",
+   "start": 75.98,
+   "end": 76.18,
+   "conf": 0.987,
+   "i": 146
+  },
+  {
+   "word": "cukup.",
+   "start": 76.26,
+   "end": 76.58,
+   "conf": 0.995,
+   "i": 147
+  },
+  {
+   "word": "Bukankah",
+   "start": 77.12,
+   "end": 77.46,
+   "conf": 0.953,
+   "i": 148
+  },
+  {
+   "word": "sebaiknya",
+   "start": 77.52,
+   "end": 77.96,
+   "conf": 0.996,
+   "i": 149
+  },
+  {
+   "word": "kau",
+   "start": 78.08,
+   "end": 78.2,
+   "conf": 0.996,
+   "i": 150
+  },
+  {
+   "word": "belajar",
+   "start": 78.26,
+   "end": 78.58,
+   "conf": 0.999,
+   "i": 151
+  },
+  {
+   "word": "bersyukur?”",
+   "start": 78.66,
+   "end": 79.14,
+   "conf": 0.963,
+   "i": 152
+  },
+  {
+   "word": "Arka",
+   "start": 80.2,
+   "end": 80.38,
+   "conf": 0.983,
+   "i": 153
+  },
+  {
+   "word": "marah",
+   "start": 80.48,
+   "end": 80.82,
+   "conf": 0.995,
+   "i": 154
+  },
+  {
+   "word": "dan",
+   "start": 81.1,
+   "end": 81.2,
+   "conf": 0.992,
+   "i": 155
+  },
+  {
+   "word": "mengancam",
+   "start": 81.26,
+   "end": 81.66,
+   "conf": 0.98,
+   "i": 156
+  },
+  {
+   "word": "akan",
+   "start": 81.74,
+   "end": 81.9,
+   "conf": 0.995,
+   "i": 157
+  },
+  {
+   "word": "menebang",
+   "start": 81.96,
+   "end": 82.34,
+   "conf": 0.997,
+   "i": 158
+  },
+  {
+   "word": "pohon",
+   "start": 82.42,
+   "end": 82.64,
+   "conf": 0.998,
+   "i": 159
+  },
+  {
+   "word": "itu",
+   "start": 82.74,
+   "end": 82.88,
+   "conf": 0.99,
+   "i": 160
+  },
+  {
+   "word": "jika",
+   "start": 83.02,
+   "end": 83.18,
+   "conf": 0.989,
+   "i": 161
+  },
+  {
+   "word": "keinginannya",
+   "start": 83.26,
+   "end": 83.76,
+   "conf": 0.971,
+   "i": 162
+  },
+  {
+   "word": "tidak",
+   "start": 83.84,
+   "end": 84.04,
+   "conf": 0.995,
+   "i": 163
+  },
+  {
+   "word": "dikabulkan.",
+   "start": 84.1,
+   "end": 84.64,
+   "conf": 0.993,
+   "i": 164
+  },
+  {
+   "word": "Akhirnya,",
+   "start": 85.82,
+   "end": 86.24,
+   "conf": 0.968,
+   "i": 165
+  },
+  {
+   "word": "pohon",
+   "start": 86.6,
+   "end": 86.82,
+   "conf": 0.98,
+   "i": 166
+  },
+  {
+   "word": "itu",
+   "start": 86.9,
+   "end": 87.0,
+   "conf": 0.991,
+   "i": 167
+  },
+  {
+   "word": "memberikan",
+   "start": 87.08,
+   "end": 87.5,
+   "conf": 0.971,
+   "i": 168
+  },
+  {
+   "word": "satu",
+   "start": 87.62,
+   "end": 87.84,
+   "conf": 0.992,
+   "i": 169
+  },
+  {
+   "word": "buah",
+   "start": 87.92,
+   "end": 88.12,
+   "conf": 0.995,
+   "i": 170
+  },
+  {
+   "word": "terakhir.",
+   "start": 88.18,
+   "end": 88.56,
+   "conf": 0.984,
+   "i": 171
+  },
+  {
+   "word": "Namun,",
+   "start": 89.72,
+   "end": 89.98,
+   "conf": 0.987,
+   "i": 172
+  },
+  {
+   "word": "ketika",
+   "start": 90.12,
+   "end": 90.4,
+   "conf": 0.984,
+   "i": 173
+  },
+  {
+   "word": "Arka",
+   "start": 90.5,
+   "end": 90.66,
+   "conf": 0.992,
+   "i": 174
+  },
+  {
+   "word": "membukanya,",
+   "start": 90.74,
+   "end": 91.28,
+   "conf": 0.993,
+   "i": 175
+  },
+  {
+   "word": "seluruh",
+   "start": 91.8,
+   "end": 92.12,
+   "conf": 0.995,
+   "i": 176
+  },
+  {
+   "word": "emas",
+   "start": 92.22,
+   "end": 92.42,
+   "conf": 0.992,
+   "i": 177
+  },
+  {
+   "word": "yang",
+   "start": 92.48,
+   "end": 92.58,
+   "conf": 0.982,
+   "i": 178
+  },
+  {
+   "word": "dimilikinya",
+   "start": 92.62,
+   "end": 93.18,
+   "conf": 0.993,
+   "i": 179
+  },
+  {
+   "word": "tiba-tiba",
+   "start": 93.38,
+   "end": 93.92,
+   "conf": 0.94,
+   "i": 180
+  },
+  {
+   "word": "berubah",
+   "start": 94.0,
+   "end": 94.38,
+   "conf": 0.962,
+   "i": 181
+  },
+  {
+   "word": "menjadi",
+   "start": 94.46,
+   "end": 94.74,
+   "conf": 0.994,
+   "i": 182
+  },
+  {
+   "word": "daun",
+   "start": 94.82,
+   "end": 95.02,
+   "conf": 0.993,
+   "i": 183
+  },
+  {
+   "word": "kering.",
+   "start": 95.1,
+   "end": 95.36,
+   "conf": 0.995,
+   "i": 184
+  },
+  {
+   "word": "Ia",
+   "start": 96.26,
+   "end": 96.38,
+   "conf": 0.99,
+   "i": 185
+  },
+  {
+   "word": "berteriak",
+   "start": 96.48,
+   "end": 97.02,
+   "conf": 0.994,
+   "i": 186
+  },
+  {
+   "word": "ketakutan.",
+   "start": 97.08,
+   "end": 97.6,
+   "conf": 0.994,
+   "i": 187
+  },
+  {
+   "word": "Pohon",
+   "start": 98.64,
+   "end": 98.86,
+   "conf": 0.991,
+   "i": 188
+  },
+  {
+   "word": "itu",
+   "start": 98.92,
+   "end": 99.02,
+   "conf": 0.984,
+   "i": 189
+  },
+  {
+   "word": "berkata",
+   "start": 99.08,
+   "end": 99.38,
+   "conf": 0.983,
+   "i": 190
+  },
+  {
+   "word": "pelan,",
+   "start": 99.44,
+   "end": 99.68,
+   "conf": 0.982,
+   "i": 191
+  },
+  {
+   "word": "“Kau",
+   "start": 100.44,
+   "end": 100.58,
+   "conf": 0.986,
+   "i": 192
+  },
+  {
+   "word": "telah",
+   "start": 100.66,
+   "end": 100.86,
+   "conf": 0.988,
+   "i": 193
+  },
+  {
+   "word": "mendapatkan",
+   "start": 100.92,
+   "end": 101.44,
+   "conf": 0.99,
+   "i": 194
+  },
+  {
+   "word": "apa",
+   "start": 101.62,
+   "end": 101.8,
+   "conf": 0.982,
+   "i": 195
+  },
+  {
+   "word": "yang",
+   "start": 101.9,
+   "end": 102.0,
+   "conf": 0.993,
+   "i": 196
+  },
+  {
+   "word": "kau",
+   "start": 102.06,
+   "end": 102.16,
+   "conf": 0.993,
+   "i": 197
+  },
+  {
+   "word": "inginkan,",
+   "start": 102.24,
+   "end": 102.66,
+   "conf": 0.989,
+   "i": 198
+  },
+  {
+   "word": "tetapi",
+   "start": 103.28,
+   "end": 103.56,
+   "conf": 0.998,
+   "i": 199
+  },
+  {
+   "word": "kehilangan",
+   "start": 103.64,
+   "end": 104.06,
+   "conf": 0.991,
+   "i": 200
+  },
+  {
+   "word": "sesuatu",
+   "start": 104.14,
+   "end": 104.56,
+   "conf": 0.996,
+   "i": 201
+  },
+  {
+   "word": "yang",
+   "start": 104.66,
+   "end": 104.78,
+   "conf": 0.947,
+   "i": 202
+  },
+  {
+   "word": "jauh",
+   "start": 104.9,
+   "end": 105.18,
+   "conf": 0.992,
+   "i": 203
+  },
+  {
+   "word": "lebih",
+   "start": 105.28,
+   "end": 105.44,
+   "conf": 0.937,
+   "i": 204
+  },
+  {
+   "word": "berharga.”",
+   "start": 105.48,
+   "end": 105.9,
+   "conf": 0.997,
+   "i": 205
+  },
+  {
+   "word": "Arka",
+   "start": 107.28,
+   "end": 107.48,
+   "conf": 0.997,
+   "i": 206
+  },
+  {
+   "word": "menangis",
+   "start": 107.56,
+   "end": 108.08,
+   "conf": 0.998,
+   "i": 207
+  },
+  {
+   "word": "dan",
+   "start": 108.24,
+   "end": 108.36,
+   "conf": 0.998,
+   "i": 208
+  },
+  {
+   "word": "memohon",
+   "start": 108.42,
+   "end": 108.82,
+   "conf": 0.982,
+   "i": 209
+  },
+  {
+   "word": "agar",
+   "start": 108.92,
+   "end": 109.1,
+   "conf": 0.996,
+   "i": 210
+  },
+  {
+   "word": "semuanya",
+   "start": 109.18,
+   "end": 109.6,
+   "conf": 0.997,
+   "i": 211
+  },
+  {
+   "word": "dikembalikan.",
+   "start": 109.68,
+   "end": 110.28,
+   "conf": 0.997,
+   "i": 212
+  },
+  {
+   "word": "Namun,",
+   "start": 111.18,
+   "end": 111.44,
+   "conf": 0.998,
+   "i": 213
+  },
+  {
+   "word": "pohon",
+   "start": 111.52,
+   "end": 111.72,
+   "conf": 0.996,
+   "i": 214
+  },
+  {
+   "word": "ajaib",
+   "start": 111.8,
+   "end": 112.08,
+   "conf": 0.923,
+   "i": 215
+  },
+  {
+   "word": "itu",
+   "start": 112.14,
+   "end": 112.24,
+   "conf": 0.995,
+   "i": 216
+  },
+  {
+   "word": "perlahan",
+   "start": 112.32,
+   "end": 112.68,
+   "conf": 0.992,
+   "i": 217
+  },
+  {
+   "word": "menghilang",
+   "start": 112.74,
+   "end": 113.22,
+   "conf": 0.987,
+   "i": 218
+  },
+  {
+   "word": "bersama",
+   "start": 113.38,
+   "end": 113.7,
+   "conf": 0.991,
+   "i": 219
+  },
+  {
+   "word": "cahaya",
+   "start": 113.76,
+   "end": 114.08,
+   "conf": 0.979,
+   "i": 220
+  },
+  {
+   "word": "keemasan.",
+   "start": 114.16,
+   "end": 114.66,
+   "conf": 0.981,
+   "i": 221
+  },
+  {
+   "word": "Sejak",
+   "start": 115.88,
+   "end": 116.14,
+   "conf": 0.987,
+   "i": 222
+  },
+  {
+   "word": "hari",
+   "start": 116.18,
+   "end": 116.32,
+   "conf": 0.992,
+   "i": 223
+  },
+  {
+   "word": "itu,",
+   "start": 116.4,
+   "end": 116.58,
+   "conf": 0.992,
+   "i": 224
+  },
+  {
+   "word": "Arka",
+   "start": 117.22,
+   "end": 117.42,
+   "conf": 0.994,
+   "i": 225
+  },
+  {
+   "word": "kembali",
+   "start": 117.54,
+   "end": 117.8,
+   "conf": 0.993,
+   "i": 226
+  },
+  {
+   "word": "hidup",
+   "start": 117.86,
+   "end": 118.02,
+   "conf": 0.995,
+   "i": 227
+  },
+  {
+   "word": "sederhana.",
+   "start": 118.08,
+   "end": 118.54,
+   "conf": 0.968,
+   "i": 228
+  },
+  {
+   "word": "Bedanya,",
+   "start": 119.28,
+   "end": 119.74,
+   "conf": 0.989,
+   "i": 229
+  },
+  {
+   "word": "ia",
+   "start": 120.2,
+   "end": 120.28,
+   "conf": 0.996,
+   "i": 230
+  },
+  {
+   "word": "mulai",
+   "start": 120.4,
+   "end": 120.62,
+   "conf": 1.0,
+   "i": 231
+  },
+  {
+   "word": "bekerja",
+   "start": 120.68,
+   "end": 120.96,
+   "conf": 1.0,
+   "i": 232
+  },
+  {
+   "word": "keras,",
+   "start": 121.02,
+   "end": 121.32,
+   "conf": 1.0,
+   "i": 233
+  },
+  {
+   "word": "membantu",
+   "start": 121.86,
+   "end": 122.2,
+   "conf": 1.0,
+   "i": 234
+  },
+  {
+   "word": "sesama,",
+   "start": 122.28,
+   "end": 122.68,
+   "conf": 1.0,
+   "i": 235
+  },
+  {
+   "word": "dan",
+   "start": 123.08,
+   "end": 123.2,
+   "conf": 1.0,
+   "i": 236
+  },
+  {
+   "word": "tidak",
+   "start": 123.3,
+   "end": 123.5,
+   "conf": 1.0,
+   "i": 237
+  },
+  {
+   "word": "lagi",
+   "start": 123.58,
+   "end": 123.76,
+   "conf": 0.999,
+   "i": 238
+  },
+  {
+   "word": "mengukur",
+   "start": 123.84,
+   "end": 124.18,
+   "conf": 0.996,
+   "i": 239
+  },
+  {
+   "word": "kebahagiaan",
+   "start": 124.24,
+   "end": 124.88,
+   "conf": 0.946,
+   "i": 240
+  },
+  {
+   "word": "dari",
+   "start": 124.94,
+   "end": 125.1,
+   "conf": 0.999,
+   "i": 241
+  },
+  {
+   "word": "banyaknya",
+   "start": 125.16,
+   "end": 125.56,
+   "conf": 0.992,
+   "i": 242
+  },
+  {
+   "word": "harta.",
+   "start": 125.62,
+   "end": 125.92,
+   "conf": 0.999,
+   "i": 243
+  },
+  {
+   "word": "Sebab,",
+   "start": 127.06,
+   "end": 127.36,
+   "conf": 1.0,
+   "i": 244
+  },
+  {
+   "word": "kekayaan",
+   "start": 127.64,
+   "end": 128.06,
+   "conf": 0.999,
+   "i": 245
+  },
+  {
+   "word": "sejati",
+   "start": 128.12,
+   "end": 128.46,
+   "conf": 1.0,
+   "i": 246
+  },
+  {
+   "word": "bukanlah",
+   "start": 128.56,
+   "end": 128.92,
+   "conf": 1.0,
+   "i": 247
+  },
+  {
+   "word": "tentang",
+   "start": 128.98,
+   "end": 129.22,
+   "conf": 0.989,
+   "i": 248
+  },
+  {
+   "word": "seberapa",
+   "start": 129.28,
+   "end": 129.6,
+   "conf": 0.999,
+   "i": 249
+  },
+  {
+   "word": "banyak",
+   "start": 129.68,
+   "end": 129.92,
+   "conf": 1.0,
+   "i": 250
+  },
+  {
+   "word": "yang",
+   "start": 129.98,
+   "end": 130.06,
+   "conf": 0.999,
+   "i": 251
+  },
+  {
+   "word": "kita",
+   "start": 130.1,
+   "end": 130.24,
+   "conf": 0.998,
+   "i": 252
+  },
+  {
+   "word": "miliki,",
+   "start": 130.3,
+   "end": 130.66,
+   "conf": 0.999,
+   "i": 253
+  },
+  {
+   "word": "melainkan",
+   "start": 131.34,
+   "end": 131.76,
+   "conf": 0.958,
+   "i": 254
+  },
+  {
+   "word": "seberapa",
+   "start": 131.84,
+   "end": 132.18,
+   "conf": 0.999,
+   "i": 255
+  },
+  {
+   "word": "besar",
+   "start": 132.26,
+   "end": 132.56,
+   "conf": 1.0,
+   "i": 256
+  },
+  {
+   "word": "rasa",
+   "start": 132.66,
+   "end": 132.84,
+   "conf": 0.999,
+   "i": 257
+  },
+  {
+   "word": "syukur",
+   "start": 132.92,
+   "end": 133.14,
+   "conf": 0.953,
+   "i": 258
+  },
+  {
+   "word": "kita",
+   "start": 133.2,
+   "end": 133.42,
+   "conf": 0.999,
+   "i": 259
+  },
+  {
+   "word": "atas",
+   "start": 133.54,
+   "end": 133.72,
+   "conf": 0.998,
+   "i": 260
+  },
+  {
+   "word": "apa",
+   "start": 133.86,
+   "end": 134.0,
+   "conf": 0.999,
+   "i": 261
+  },
+  {
+   "word": "yang",
+   "start": 134.1,
+   "end": 134.2,
+   "conf": 0.994,
+   "i": 262
+  },
+  {
+   "word": "telah",
+   "start": 134.24,
+   "end": 134.4,
+   "conf": 0.999,
+   "i": 263
+  },
+  {
+   "word": "diberikan.",
+   "start": 134.46,
+   "end": 134.9,
+   "conf": 0.999,
+   "i": 264
+  }
+ ],
+ "sentences": [
+  {
+   "start": 0.2,
+   "end": 7.16,
+   "text": "Pada zaman dahulu, di sebuah desa kecil yang dikelilingi hutan lebat, hiduplah seorang pemuda bernama Arka.",
+   "w0": 0,
+   "w1": 15
+  },
+  {
+   "start": 8.16,
+   "end": 12.28,
+   "text": "Arka dikenal sebagai pemuda miskin yang selalu mengeluh tentang kehidupannya.",
+   "w0": 16,
+   "w1": 25
+  },
+  {
+   "start": 13.16,
+   "end": 15.82,
+   "text": "Ia ingin menjadi kaya tanpa harus bekerja keras.",
+   "w0": 26,
+   "w1": 33
+  },
+  {
+   "start": 16.94,
+   "end": 23.22,
+   "text": "Suatu hari, ketika mencari kayu bakar di hutan, Arka menemukan sebuah pohon tua yang sangat besar.",
+   "w0": 34,
+   "w1": 49
+  },
+  {
+   "start": 24.3,
+   "end": 28.78,
+   "text": "Anehnya, pohon itu memiliki buah berwarna keemasan yang memancarkan cahaya.",
+   "w0": 50,
+   "w1": 59
+  },
+  {
+   "start": 29.98,
+   "end": 32.56,
+   "text": "Tiba-tiba, terdengar suara dari dalam pohon.",
+   "w0": 60,
+   "w1": 65
+  },
+  {
+   "start": 33.74,
+   "end": 36.46,
+   "text": "“Wahai pemuda, ambillah satu buah dariku.",
+   "w0": 66,
+   "w1": 71
+  },
+  {
+   "start": 37.26,
+   "end": 44.42,
+   "text": "Apa pun yang kau inginkan akan menjadi kenyataan.” Arka terkejut, tetapi matanya langsung berbinar.",
+   "w0": 72,
+   "w1": 85
+  },
+  {
+   "start": 45.44,
+   "end": 52.4,
+   "text": "“Aku ingin emas sebanyak-banyaknya!” Seketika, buah itu jatuh dan berubah menjadi tumpukan emas di hadapannya.",
+   "w0": 86,
+   "w1": 100
+  },
+  {
+   "start": 53.38,
+   "end": 54.8,
+   "text": "Arka tertawa kegirangan.",
+   "w0": 101,
+   "w1": 103
+  },
+  {
+   "start": 55.48,
+   "end": 63.16,
+   "text": "Ia membawa emas tersebut pulang dan membeli rumah besar, pakaian mewah, serta segala sesuatu yang selama ini diimpikannya.",
+   "w0": 104,
+   "w1": 121
+  },
+  {
+   "start": 64.36,
+   "end": 66.54,
+   "text": "Namun, keserakahannya tidak berhenti di situ.",
+   "w0": 122,
+   "w1": 127
+  },
+  {
+   "start": 67.34,
+   "end": 69.84,
+   "text": "Keesokan harinya, ia kembali ke pohon ajaib.",
+   "w0": 128,
+   "w1": 134
+  },
+  {
+   "start": 70.72,
+   "end": 76.58,
+   "text": "“Aku ingin emas sepuluh kali lebih banyak!” Pohon itu menjawab, “Kekayaanmu sudah cukup.",
+   "w0": 135,
+   "w1": 147
+  },
+  {
+   "start": 77.12,
+   "end": 84.64,
+   "text": "Bukankah sebaiknya kau belajar bersyukur?” Arka marah dan mengancam akan menebang pohon itu jika keinginannya tidak dikabulkan.",
+   "w0": 148,
+   "w1": 164
+  },
+  {
+   "start": 85.82,
+   "end": 88.56,
+   "text": "Akhirnya, pohon itu memberikan satu buah terakhir.",
+   "w0": 165,
+   "w1": 171
+  },
+  {
+   "start": 89.72,
+   "end": 95.36,
+   "text": "Namun, ketika Arka membukanya, seluruh emas yang dimilikinya tiba-tiba berubah menjadi daun kering.",
+   "w0": 172,
+   "w1": 184
+  },
+  {
+   "start": 96.26,
+   "end": 97.6,
+   "text": "Ia berteriak ketakutan.",
+   "w0": 185,
+   "w1": 187
+  },
+  {
+   "start": 98.64,
+   "end": 110.28,
+   "text": "Pohon itu berkata pelan, “Kau telah mendapatkan apa yang kau inginkan, tetapi kehilangan sesuatu yang jauh lebih berharga.” Arka menangis dan memohon agar semuanya dikembalikan.",
+   "w0": 188,
+   "w1": 212
+  },
+  {
+   "start": 111.18,
+   "end": 114.66,
+   "text": "Namun, pohon ajaib itu perlahan menghilang bersama cahaya keemasan.",
+   "w0": 213,
+   "w1": 221
+  },
+  {
+   "start": 115.88,
+   "end": 118.54,
+   "text": "Sejak hari itu, Arka kembali hidup sederhana.",
+   "w0": 222,
+   "w1": 228
+  },
+  {
+   "start": 119.28,
+   "end": 125.92,
+   "text": "Bedanya, ia mulai bekerja keras, membantu sesama, dan tidak lagi mengukur kebahagiaan dari banyaknya harta.",
+   "w0": 229,
+   "w1": 243
+  },
+  {
+   "start": 127.06,
+   "end": 134.9,
+   "text": "Sebab, kekayaan sejati bukanlah tentang seberapa banyak yang kita miliki, melainkan seberapa besar rasa syukur kita atas apa yang telah diberikan.",
+   "w0": 244,
+   "w1": 264
+  }
+ ],
+ "low_confidence": []
+}
